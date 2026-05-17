@@ -1,0 +1,3312 @@
+{
+    "returncode": 200,
+    "returndata": {
+        "datanodes": [
+            {
+                "code": "zb.A0B0201_sj.202601",
+                "data": {
+                    "data": 49.4,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "49.4"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0201",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202601",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0201_sj.202512",
+                "data": {
+                    "data": 50.2,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.2"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0201",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202512",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0201_sj.202511",
+                "data": {
+                    "data": 49.5,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "49.5"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0201",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202511",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0201_sj.202510",
+                "data": {
+                    "data": 50.1,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.1"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0201",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202510",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0201_sj.202509",
+                "data": {
+                    "data": 50.0,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.0"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0201",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202509",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0201_sj.202508",
+                "data": {
+                    "data": 50.3,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.3"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0201",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202508",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0201_sj.202507",
+                "data": {
+                    "data": 50.1,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.1"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0201",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202507",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0201_sj.202506",
+                "data": {
+                    "data": 50.5,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.5"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0201",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202506",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0201_sj.202505",
+                "data": {
+                    "data": 50.3,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.3"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0201",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202505",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0201_sj.202504",
+                "data": {
+                    "data": 50.4,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.4"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0201",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202504",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0201_sj.202503",
+                "data": {
+                    "data": 50.8,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.8"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0201",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202503",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0201_sj.202502",
+                "data": {
+                    "data": 50.4,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.4"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0201",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202502",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0201_sj.202501",
+                "data": {
+                    "data": 50.2,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.2"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0201",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202501",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0202_sj.202601",
+                "data": {
+                    "data": 46.1,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "46.1"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0202",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202601",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0202_sj.202512",
+                "data": {
+                    "data": 47.3,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "47.3"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0202",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202512",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0202_sj.202511",
+                "data": {
+                    "data": 45.7,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "45.7"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0202",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202511",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0202_sj.202510",
+                "data": {
+                    "data": 46.0,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "46.0"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0202",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202510",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0202_sj.202509",
+                "data": {
+                    "data": 46.0,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "46.0"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0202",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202509",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0202_sj.202508",
+                "data": {
+                    "data": 46.6,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "46.6"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0202",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202508",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0202_sj.202507",
+                "data": {
+                    "data": 45.7,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "45.7"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0202",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202507",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0202_sj.202506",
+                "data": {
+                    "data": 46.6,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "46.6"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0202",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202506",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0202_sj.202505",
+                "data": {
+                    "data": 46.1,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "46.1"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0202",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202505",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0202_sj.202504",
+                "data": {
+                    "data": 44.9,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "44.9"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0202",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202504",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0202_sj.202503",
+                "data": {
+                    "data": 46.6,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "46.6"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0202",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202503",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0202_sj.202502",
+                "data": {
+                    "data": 46.1,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "46.1"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0202",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202502",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0202_sj.202501",
+                "data": {
+                    "data": 46.4,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "46.4"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0202",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202501",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0203_sj.202601",
+                "data": {
+                    "data": 46.9,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "46.9"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0203",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202601",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0203_sj.202512",
+                "data": {
+                    "data": 47.5,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "47.5"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0203",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202512",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0203_sj.202511",
+                "data": {
+                    "data": 47.9,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "47.9"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0203",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202511",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0203_sj.202510",
+                "data": {
+                    "data": 46.2,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "46.2"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0203",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202510",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0203_sj.202509",
+                "data": {
+                    "data": 49.8,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "49.8"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0203",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202509",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0203_sj.202508",
+                "data": {
+                    "data": 48.8,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "48.8"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0203",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202508",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0203_sj.202507",
+                "data": {
+                    "data": 48.8,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "48.8"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0203",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202507",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0203_sj.202506",
+                "data": {
+                    "data": 49.8,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "49.8"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0203",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202506",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0203_sj.202505",
+                "data": {
+                    "data": 48.0,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "48.0"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0203",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202505",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0203_sj.202504",
+                "data": {
+                    "data": 42.2,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "42.2"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0203",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202504",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0203_sj.202503",
+                "data": {
+                    "data": 49.8,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "49.8"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0203",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202503",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0203_sj.202502",
+                "data": {
+                    "data": 49.5,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "49.5"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0203",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202502",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0203_sj.202501",
+                "data": {
+                    "data": 44.6,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "44.6"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0203",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202501",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0204_sj.202601",
+                "data": {
+                    "data": 42.5,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "42.5"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0204",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202601",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0204_sj.202512",
+                "data": {
+                    "data": 43.5,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "43.5"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0204",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202512",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0204_sj.202511",
+                "data": {
+                    "data": 43.6,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "43.6"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0204",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202511",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0204_sj.202510",
+                "data": {
+                    "data": 43.6,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "43.6"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0204",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202510",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0204_sj.202509",
+                "data": {
+                    "data": 44.4,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "44.4"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0204",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202509",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0204_sj.202508",
+                "data": {
+                    "data": 43.4,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "43.4"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0204",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202508",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0204_sj.202507",
+                "data": {
+                    "data": 42.3,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "42.3"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0204",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202507",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0204_sj.202506",
+                "data": {
+                    "data": 43.4,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "43.4"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0204",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202506",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0204_sj.202505",
+                "data": {
+                    "data": 43.4,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "43.4"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0204",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202505",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0204_sj.202504",
+                "data": {
+                    "data": 42.3,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "42.3"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0204",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202504",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0204_sj.202503",
+                "data": {
+                    "data": 43.7,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "43.7"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0204",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202503",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0204_sj.202502",
+                "data": {
+                    "data": 43.1,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "43.1"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0204",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202502",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0204_sj.202501",
+                "data": {
+                    "data": 43.3,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "43.3"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0204",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202501",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0205_sj.202601",
+                "data": {
+                    "data": 44.8,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "44.8"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0205",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202601",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0205_sj.202512",
+                "data": {
+                    "data": 45.2,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "45.2"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0205",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202512",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0205_sj.202511",
+                "data": {
+                    "data": 44.8,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "44.8"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0205",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202511",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0205_sj.202510",
+                "data": {
+                    "data": 46.0,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "46.0"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0205",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202510",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0205_sj.202509",
+                "data": {
+                    "data": 44.9,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "44.9"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0205",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202509",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0205_sj.202508",
+                "data": {
+                    "data": 45.7,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "45.7"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0205",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202508",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0205_sj.202507",
+                "data": {
+                    "data": 45.3,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "45.3"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0205",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202507",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0205_sj.202506",
+                "data": {
+                    "data": 44.8,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "44.8"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0205",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202506",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0205_sj.202505",
+                "data": {
+                    "data": 46.1,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "46.1"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0205",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202505",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0205_sj.202504",
+                "data": {
+                    "data": 45.1,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "45.1"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0205",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202504",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0205_sj.202503",
+                "data": {
+                    "data": 45.7,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "45.7"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0205",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202503",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0205_sj.202502",
+                "data": {
+                    "data": 45.2,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "45.2"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0205",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202502",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0205_sj.202501",
+                "data": {
+                    "data": 45.0,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "45.0"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0205",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202501",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0206_sj.202601",
+                "data": {
+                    "data": 50.0,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.0"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0206",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202601",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0206_sj.202512",
+                "data": {
+                    "data": 50.2,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.2"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0206",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202512",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0206_sj.202511",
+                "data": {
+                    "data": 50.4,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.4"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0206",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202511",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0206_sj.202510",
+                "data": {
+                    "data": 49.4,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "49.4"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0206",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202510",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0206_sj.202509",
+                "data": {
+                    "data": 49.0,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "49.0"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0206",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202509",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0206_sj.202508",
+                "data": {
+                    "data": 50.3,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.3"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0206",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202508",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0206_sj.202507",
+                "data": {
+                    "data": 50.3,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.3"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0206",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202507",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0206_sj.202506",
+                "data": {
+                    "data": 49.9,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "49.9"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0206",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202506",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0206_sj.202505",
+                "data": {
+                    "data": 48.2,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "48.2"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0206",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202505",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0206_sj.202504",
+                "data": {
+                    "data": 47.8,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "47.8"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0206",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202504",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0206_sj.202503",
+                "data": {
+                    "data": 48.6,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "48.6"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0206",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202503",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0206_sj.202502",
+                "data": {
+                    "data": 48.4,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "48.4"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0206",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202502",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0206_sj.202501",
+                "data": {
+                    "data": 50.4,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.4"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0206",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202501",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0207_sj.202601",
+                "data": {
+                    "data": 48.8,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "48.8"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0207",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202601",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0207_sj.202512",
+                "data": {
+                    "data": 48.0,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "48.0"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0207",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202512",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0207_sj.202511",
+                "data": {
+                    "data": 49.1,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "49.1"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0207",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202511",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0207_sj.202510",
+                "data": {
+                    "data": 47.8,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "47.8"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0207",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202510",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0207_sj.202509",
+                "data": {
+                    "data": 47.3,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "47.3"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0207",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202509",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0207_sj.202508",
+                "data": {
+                    "data": 48.6,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "48.6"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0207",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202508",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0207_sj.202507",
+                "data": {
+                    "data": 47.9,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "47.9"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0207",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202507",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0207_sj.202506",
+                "data": {
+                    "data": 48.8,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "48.8"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0207",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202506",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0207_sj.202505",
+                "data": {
+                    "data": 47.3,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "47.3"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0207",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202505",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0207_sj.202504",
+                "data": {
+                    "data": 46.6,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "46.6"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0207",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202504",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0207_sj.202503",
+                "data": {
+                    "data": 46.7,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "46.7"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0207",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202503",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0207_sj.202502",
+                "data": {
+                    "data": 47.8,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "47.8"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0207",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202502",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0207_sj.202501",
+                "data": {
+                    "data": 48.6,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "48.6"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0207",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202501",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0208_sj.202601",
+                "data": {
+                    "data": 46.1,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "46.1"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0208",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202601",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0208_sj.202512",
+                "data": {
+                    "data": 46.1,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "46.1"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0208",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202512",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0208_sj.202511",
+                "data": {
+                    "data": 45.3,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "45.3"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0208",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202511",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0208_sj.202510",
+                "data": {
+                    "data": 45.2,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "45.2"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0208",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202510",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0208_sj.202509",
+                "data": {
+                    "data": 45.0,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "45.0"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0208",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202509",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0208_sj.202508",
+                "data": {
+                    "data": 45.6,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "45.6"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0208",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202508",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0208_sj.202507",
+                "data": {
+                    "data": 45.6,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "45.6"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0208",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202507",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0208_sj.202506",
+                "data": {
+                    "data": 45.5,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "45.5"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0208",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202506",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0208_sj.202505",
+                "data": {
+                    "data": 45.5,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "45.5"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0208",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202505",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0208_sj.202504",
+                "data": {
+                    "data": 45.5,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "45.5"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0208",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202504",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0208_sj.202503",
+                "data": {
+                    "data": 45.8,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "45.8"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0208",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202503",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0208_sj.202502",
+                "data": {
+                    "data": 46.5,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "46.5"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0208",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202502",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0208_sj.202501",
+                "data": {
+                    "data": 46.7,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "46.7"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0208",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202501",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0209_sj.202601",
+                "data": {
+                    "data": 51.1,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "51.1"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0209",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202601",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0209_sj.202512",
+                "data": {
+                    "data": 51.3,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "51.3"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0209",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202512",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0209_sj.202511",
+                "data": {
+                    "data": 51.2,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "51.2"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0209",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202511",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0209_sj.202510",
+                "data": {
+                    "data": 50.9,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.9"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0209",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202510",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0209_sj.202509",
+                "data": {
+                    "data": 51.1,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "51.1"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0209",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202509",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0209_sj.202508",
+                "data": {
+                    "data": 51.3,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "51.3"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0209",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202508",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0209_sj.202507",
+                "data": {
+                    "data": 51.2,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "51.2"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0209",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202507",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0209_sj.202506",
+                "data": {
+                    "data": 51.2,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "51.2"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0209",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202506",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0209_sj.202505",
+                "data": {
+                    "data": 51.1,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "51.1"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0209",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202505",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0209_sj.202504",
+                "data": {
+                    "data": 50.8,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.8"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0209",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202504",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0209_sj.202503",
+                "data": {
+                    "data": 51.1,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "51.1"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0209",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202503",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0209_sj.202502",
+                "data": {
+                    "data": 53.1,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "53.1"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0209",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202502",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B0209_sj.202501",
+                "data": {
+                    "data": 51.3,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "51.3"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B0209",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202501",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020A_sj.202601",
+                "data": {
+                    "data": 56.0,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "56.0"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020A",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202601",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020A_sj.202512",
+                "data": {
+                    "data": 56.5,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "56.5"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020A",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202512",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020A_sj.202511",
+                "data": {
+                    "data": 56.2,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "56.2"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020A",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202511",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020A_sj.202510",
+                "data": {
+                    "data": 56.1,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "56.1"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020A",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202510",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020A_sj.202509",
+                "data": {
+                    "data": 55.7,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "55.7"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020A",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202509",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020A_sj.202508",
+                "data": {
+                    "data": 56.2,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "56.2"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020A",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202508",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020A_sj.202507",
+                "data": {
+                    "data": 55.8,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "55.8"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020A",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202507",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020A_sj.202506",
+                "data": {
+                    "data": 55.6,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "55.6"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020A",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202506",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020A_sj.202505",
+                "data": {
+                    "data": 55.9,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "55.9"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020A",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202505",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020A_sj.202504",
+                "data": {
+                    "data": 56.0,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "56.0"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020A",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202504",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020A_sj.202503",
+                "data": {
+                    "data": 57.2,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "57.2"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020A",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202503",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020A_sj.202502",
+                "data": {
+                    "data": 56.6,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "56.6"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020A",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202502",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020A_sj.202501",
+                "data": {
+                    "data": 56.7,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "56.7"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020A",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202501",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020B_sj.202601",
+                "data": {
+                    "data": 48.8,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "48.8"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020B",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202601",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020B_sj.202512",
+                "data": {
+                    "data": 52.8,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "52.8"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020B",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202512",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020B_sj.202511",
+                "data": {
+                    "data": 49.6,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "49.6"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020B",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202511",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020B_sj.202510",
+                "data": {
+                    "data": 49.1,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "49.1"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020B",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202510",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020B_sj.202509",
+                "data": {
+                    "data": 49.3,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "49.3"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020B",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202509",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020B_sj.202508",
+                "data": {
+                    "data": 49.1,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "49.1"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020B",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202508",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020B_sj.202507",
+                "data": {
+                    "data": 50.6,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.6"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020B",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202507",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020B_sj.202506",
+                "data": {
+                    "data": 52.8,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "52.8"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020B",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202506",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020B_sj.202505",
+                "data": {
+                    "data": 51.0,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "51.0"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020B",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202505",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020B_sj.202504",
+                "data": {
+                    "data": 51.9,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "51.9"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020B",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202504",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020B_sj.202503",
+                "data": {
+                    "data": 53.4,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "53.4"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020B",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202503",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020B_sj.202502",
+                "data": {
+                    "data": 52.7,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "52.7"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020B",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202502",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020B_sj.202501",
+                "data": {
+                    "data": 49.3,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "49.3"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020B",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202501",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020C_sj.202601",
+                "data": {
+                    "data": 49.5,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "49.5"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020C",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202601",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020C_sj.202512",
+                "data": {
+                    "data": 49.7,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "49.7"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020C",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202512",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020C_sj.202511",
+                "data": {
+                    "data": 49.5,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "49.5"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020C",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202511",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020C_sj.202510",
+                "data": {
+                    "data": 50.2,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.2"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020C",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202510",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020C_sj.202509",
+                "data": {
+                    "data": 50.1,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.1"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020C",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202509",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020C_sj.202508",
+                "data": {
+                    "data": 50.5,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.5"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020C",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202508",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020C_sj.202507",
+                "data": {
+                    "data": 50.0,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.0"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020C",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202507",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020C_sj.202506",
+                "data": {
+                    "data": 50.1,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.1"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020C",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202506",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020C_sj.202505",
+                "data": {
+                    "data": 50.2,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.2"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020C",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202505",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020C_sj.202504",
+                "data": {
+                    "data": 50.1,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.1"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020C",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202504",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020C_sj.202503",
+                "data": {
+                    "data": 50.3,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.3"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020C",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202503",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020C_sj.202502",
+                "data": {
+                    "data": 50.0,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.0"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020C",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202502",
+                        "wdcode": "sj"
+                    }
+                ]
+            },
+            {
+                "code": "zb.A0B020C_sj.202501",
+                "data": {
+                    "data": 50.3,
+                    "dotcount": 1,
+                    "hasdata": true,
+                    "strdata": "50.3"
+                },
+                "wds": [
+                    {
+                        "valuecode": "A0B020C",
+                        "wdcode": "zb"
+                    },
+                    {
+                        "valuecode": "202501",
+                        "wdcode": "sj"
+                    }
+                ]
+            }
+        ],
+        "freshsort": 0,
+        "hasdatacount": 156,
+        "wdnodes": [
+            {
+                "nodes": [
+                    {
+                        "cname": "非制造业商务活动指数",
+                        "code": "A0B0201",
+                        "dotcount": 1,
+                        "exp": "非制造业商务活动指数是根据企业完成的业务活动总量（如客户数、销售量、工程量等实物量）月度环比变化情况编制的扩散指数，由于没有合成的非制造业综合PMI指数，目前国际上通常用商务活动指数反映非制造业经济发展的总体变化情况，以50%作为经济强弱的分界点，高于50%时，反映非制造业经济扩张；低于50%，则反映非制造业经济收缩。",
+                        "ifshowcode": false,
+                        "memo": "发布数据均为季节调整后数据。",
+                        "name": "非制造业商务活动指数",
+                        "nodesort": "1",
+                        "sortcode": 15305,
+                        "tag": "",
+                        "unit": "%"
+                    },
+                    {
+                        "cname": "新订单指数",
+                        "code": "A0B0202",
+                        "dotcount": 1,
+                        "exp": "新订单指数是根据企业签定的服务、生产订货合同或收到的其它形式的需求总量月度环比变化情况编制的扩散指数。",
+                        "ifshowcode": false,
+                        "memo": "发布数据均为季节调整后数据。",
+                        "name": "新订单指数",
+                        "nodesort": "1",
+                        "sortcode": 15306,
+                        "tag": "",
+                        "unit": "%"
+                    },
+                    {
+                        "cname": "新出口订单指数",
+                        "code": "A0B0203",
+                        "dotcount": 1,
+                        "exp": "新出口订单指数是根据企业与国（境）外的企业签定的服务、生产订货合同或收到的其他形式的需求总量月度环比变化情况编制的扩散指数。",
+                        "ifshowcode": false,
+                        "memo": "发布数据均为季节调整后数据。",
+                        "name": "新出口订单指数",
+                        "nodesort": "1",
+                        "sortcode": 15307,
+                        "tag": "",
+                        "unit": "%"
+                    },
+                    {
+                        "cname": "在手订单指数",
+                        "code": "A0B0204",
+                        "dotcount": 1,
+                        "exp": "在手订单指数是根据企业尚未完成的业务量月度环比变化情况编制的扩散指数。",
+                        "ifshowcode": false,
+                        "memo": "发布数据均为季节调整后数据。",
+                        "name": "在手订单指数",
+                        "nodesort": "1",
+                        "sortcode": 15308,
+                        "tag": "",
+                        "unit": "%"
+                    },
+                    {
+                        "cname": "存货指数",
+                        "code": "A0B0205",
+                        "dotcount": 1,
+                        "exp": "存货指数是根据企业持有以备出售的产成品或商品、处在生产过程中的在产品、在生产过程或提供劳务过程中耗用的材料或物料等实物量月度环比变化情况编制的扩散指数。",
+                        "ifshowcode": false,
+                        "memo": "发布数据均为季节调整后数据。",
+                        "name": "存货指数",
+                        "nodesort": "1",
+                        "sortcode": 15309,
+                        "tag": "",
+                        "unit": "%"
+                    },
+                    {
+                        "cname": "投入品价格指数",
+                        "code": "A0B0206",
+                        "dotcount": 1,
+                        "exp": "投入品价格指数是根据企业生产经营或提供服务过程中的主要投入价格水平月度环比变化情况编制的扩散指数。",
+                        "ifshowcode": false,
+                        "memo": "发布数据均为季节调整后数据。||原“中间投入价格指数”改为“投入品价格指数”。",
+                        "name": "投入品价格指数",
+                        "nodesort": "1",
+                        "sortcode": 15310,
+                        "tag": "",
+                        "unit": "%"
+                    },
+                    {
+                        "cname": "销售价格指数",
+                        "code": "A0B0207",
+                        "dotcount": 1,
+                        "exp": "销售价格指数是根据企业提供的主要商品（或服务）的销售（或收费）价格水平月度环比变化情况编制的扩散指数。",
+                        "ifshowcode": false,
+                        "memo": "发布数据均为季节调整后数据。||原“收费价格指数”改为“销售价格指数”。",
+                        "name": "销售价格指数",
+                        "nodesort": "1",
+                        "sortcode": 15311,
+                        "tag": "",
+                        "unit": "%"
+                    },
+                    {
+                        "cname": "从业人员指数",
+                        "code": "A0B0208",
+                        "dotcount": 1,
+                        "exp": "从业人员指数是根据在本企业工作并取得劳动报酬的实有人员数量月度环比变化情况编制的扩散指数。",
+                        "ifshowcode": false,
+                        "memo": "发布数据均为季节调整后数据。",
+                        "name": "从业人员指数",
+                        "nodesort": "1",
+                        "sortcode": 15312,
+                        "tag": "",
+                        "unit": "%"
+                    },
+                    {
+                        "cname": "供应商配送时间指数",
+                        "code": "A0B0209",
+                        "dotcount": 1,
+                        "exp": "供应商配送时间指数是根据企业主要供应商交付商品（或服务）的时间月度环比变化情况编制的扩散指数。",
+                        "ifshowcode": false,
+                        "memo": "发布数据均为季节调整后数据。",
+                        "name": "供应商配送时间指数",
+                        "nodesort": "1",
+                        "sortcode": 15313,
+                        "tag": "",
+                        "unit": "%"
+                    },
+                    {
+                        "cname": "业务活动预期指数",
+                        "code": "A0B020A",
+                        "dotcount": 1,
+                        "exp": "业务活动预期指数是根据企业对未来3个月内业务活动整体水平预测结果的月度环比变化情况编制的扩散指数。",
+                        "ifshowcode": false,
+                        "memo": "发布数据均为季节调整后数据。",
+                        "name": "业务活动预期指数",
+                        "nodesort": "1",
+                        "sortcode": 15314,
+                        "tag": "",
+                        "unit": "%"
+                    },
+                    {
+                        "cname": "建筑业商务活动指数",
+                        "code": "A0B020B",
+                        "dotcount": 1,
+                        "exp": "",
+                        "ifshowcode": false,
+                        "memo": "",
+                        "name": "建筑业商务活动指数",
+                        "nodesort": "1",
+                        "sortcode": 15315,
+                        "tag": "",
+                        "unit": "%"
+                    },
+                    {
+                        "cname": "服务业商务活动指数",
+                        "code": "A0B020C",
+                        "dotcount": 1,
+                        "exp": "",
+                        "ifshowcode": false,
+                        "memo": "",
+                        "name": "服务业商务活动指数",
+                        "nodesort": "1",
+                        "sortcode": 15316,
+                        "tag": "",
+                        "unit": "%"
+                    }
+                ],
+                "wdcode": "zb",
+                "wdname": "指标"
+            },
+            {
+                "nodes": [
+                    {
+                        "cname": "2026年1月",
+                        "code": "202601",
+                        "dotcount": 4,
+                        "exp": "",
+                        "ifshowcode": false,
+                        "memo": "",
+                        "name": "2026年1月",
+                        "nodesort": "1",
+                        "sortcode": 3,
+                        "tag": "",
+                        "unit": ""
+                    },
+                    {
+                        "cname": "2025年12月",
+                        "code": "202512",
+                        "dotcount": 4,
+                        "exp": "",
+                        "ifshowcode": false,
+                        "memo": "",
+                        "name": "2025年12月",
+                        "nodesort": "1",
+                        "sortcode": 4,
+                        "tag": "",
+                        "unit": ""
+                    },
+                    {
+                        "cname": "2025年11月",
+                        "code": "202511",
+                        "dotcount": 4,
+                        "exp": "",
+                        "ifshowcode": false,
+                        "memo": "",
+                        "name": "2025年11月",
+                        "nodesort": "1",
+                        "sortcode": 5,
+                        "tag": "",
+                        "unit": ""
+                    },
+                    {
+                        "cname": "2025年10月",
+                        "code": "202510",
+                        "dotcount": 4,
+                        "exp": "",
+                        "ifshowcode": false,
+                        "memo": "",
+                        "name": "2025年10月",
+                        "nodesort": "1",
+                        "sortcode": 6,
+                        "tag": "",
+                        "unit": ""
+                    },
+                    {
+                        "cname": "2025年9月",
+                        "code": "202509",
+                        "dotcount": 4,
+                        "exp": "",
+                        "ifshowcode": false,
+                        "memo": "",
+                        "name": "2025年9月",
+                        "nodesort": "1",
+                        "sortcode": 7,
+                        "tag": "",
+                        "unit": ""
+                    },
+                    {
+                        "cname": "2025年8月",
+                        "code": "202508",
+                        "dotcount": 4,
+                        "exp": "",
+                        "ifshowcode": false,
+                        "memo": "",
+                        "name": "2025年8月",
+                        "nodesort": "1",
+                        "sortcode": 8,
+                        "tag": "",
+                        "unit": ""
+                    },
+                    {
+                        "cname": "2025年7月",
+                        "code": "202507",
+                        "dotcount": 4,
+                        "exp": "",
+                        "ifshowcode": false,
+                        "memo": "",
+                        "name": "2025年7月",
+                        "nodesort": "1",
+                        "sortcode": 9,
+                        "tag": "",
+                        "unit": ""
+                    },
+                    {
+                        "cname": "2025年6月",
+                        "code": "202506",
+                        "dotcount": 4,
+                        "exp": "",
+                        "ifshowcode": false,
+                        "memo": "",
+                        "name": "2025年6月",
+                        "nodesort": "1",
+                        "sortcode": 10,
+                        "tag": "",
+                        "unit": ""
+                    },
+                    {
+                        "cname": "2025年5月",
+                        "code": "202505",
+                        "dotcount": 4,
+                        "exp": "",
+                        "ifshowcode": false,
+                        "memo": "",
+                        "name": "2025年5月",
+                        "nodesort": "1",
+                        "sortcode": 11,
+                        "tag": "",
+                        "unit": ""
+                    },
+                    {
+                        "cname": "2025年4月",
+                        "code": "202504",
+                        "dotcount": 4,
+                        "exp": "",
+                        "ifshowcode": false,
+                        "memo": "",
+                        "name": "2025年4月",
+                        "nodesort": "1",
+                        "sortcode": 12,
+                        "tag": "",
+                        "unit": ""
+                    },
+                    {
+                        "cname": "2025年3月",
+                        "code": "202503",
+                        "dotcount": 4,
+                        "exp": "",
+                        "ifshowcode": false,
+                        "memo": "",
+                        "name": "2025年3月",
+                        "nodesort": "1",
+                        "sortcode": 13,
+                        "tag": "",
+                        "unit": ""
+                    },
+                    {
+                        "cname": "2025年2月",
+                        "code": "202502",
+                        "dotcount": 4,
+                        "exp": "",
+                        "ifshowcode": false,
+                        "memo": "",
+                        "name": "2025年2月",
+                        "nodesort": "1",
+                        "sortcode": 14,
+                        "tag": "",
+                        "unit": ""
+                    },
+                    {
+                        "cname": "2025年1月",
+                        "code": "202501",
+                        "dotcount": 4,
+                        "exp": "",
+                        "ifshowcode": false,
+                        "memo": "",
+                        "name": "2025年1月",
+                        "nodesort": "1",
+                        "sortcode": 15,
+                        "tag": "",
+                        "unit": ""
+                    }
+                ],
+                "wdcode": "sj",
+                "wdname": "时间"
+            }
+        ]
+    }
+}
